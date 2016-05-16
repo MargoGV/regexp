@@ -7,7 +7,7 @@
 # bab ---> a
 # bcb ---> c
 # bxb ---> x
-REGEXP_1 = '[acx]'
+REGEXP_1 = '\B{1}'
 
 # ooooAAAooooo ---> AAA
 # asdfasdAAAAfasdf ---> AAAA
