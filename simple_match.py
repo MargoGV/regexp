@@ -75,4 +75,4 @@ REGEXP_7 = '^[aA]{3}{1} [aA]{3}{1} [Aa]{3}{1}$'
 # - Aabc
 # - abc1
 # - #abc
-REGEXP_8 = ''
+REGEXP_8 = '^a.*[^1]$'
