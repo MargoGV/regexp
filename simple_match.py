@@ -75,4 +75,4 @@ REGEXP_7 = '[Aa ]{10}'
 # - Aabc
 # - abc1
 # - #abc
-REGEXP_8 = '^a.*[^1]$'
+REGEXP_8 = ''
