@@ -66,7 +66,7 @@ REGEXP_6 = '^[Okab]{6}$'
 # + Aaa aaa aaa
 # - A
 # - aaa A aaa
-REGEXP_7 = '^[aA]{3}{1} [aA]{3}{1} [Aa]{3}{1}$'
+REGEXP_7 = '[Aa ]{12}'
 
 # + abc
 # + abc03
