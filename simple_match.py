@@ -36,7 +36,7 @@ REGEXP_3 = '^sofia\.mp[34]{1}$'
 # + vera
 # + zveri
 # - zver
-REGEXP_4 = '^'
+REGEXP_4 = '^.*ver.+$'
 
 # - a
 # - aa
